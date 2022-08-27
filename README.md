@@ -1,6 +1,6 @@
 # Hi I'm Aravind
 
-In this project i used below `tech stack` to implement static devloper
+In this project i used below `tech stack` to implement static developer
 landing Page
 
 - HTML5
